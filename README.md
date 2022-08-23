@@ -7,7 +7,7 @@
 Mobile-friendly single page resume template built with the perfect fourth ratio.
 
 ## Demo
-
+https://pradeepchunji58.github.io/about.me/
 
 ## Supported Browsers
 
